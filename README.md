@@ -1,3 +1,7 @@
+
+![Imagem1](https://github.com/Ezequielaguiar/FLOW_OCEAN/assets/74986841/d7d91b2d-eaf7-473d-8bf0-0416937100fe)
+
+
 # 🌊 Flow_Ocean: Otimização de Processos para Equipes de Análise 🌊
 
 ## 🚀 Acelere a Criação de Versões com Automação Inteligente
